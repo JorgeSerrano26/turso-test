@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1711497459148,
+      "tag": "0000_tranquil_caretaker",
+      "breakpoints": true
+    }
+  ]
+}
